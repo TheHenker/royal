@@ -5,9 +5,9 @@
 var config = {
   app_id: 1187,
   // - Displayed in the navbar
-  app_name: 'Royal Casino,
+  app_name: 'Royal Casino',
   recaptcha_sitekey: '6LcHHyETAAAAAAJBklo1aJSx8dq2bTuJc1l6y8kG',
-  redirect_uri: 'https://thehenker.github.io/royal',
+  redirect_uri: 'https://thehenker.github.io/royal/',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: '//socket.moneypot.com',
